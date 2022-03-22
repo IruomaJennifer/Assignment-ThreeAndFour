@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "njd5ucnoDzYr1RubDBZ/hgBke5h80DPUowy6qnqSmYg8ty25GX9rr2U7nc+QlHvdErccPEKNQwPjvwhKqdZWzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\AssignmentThreeandFour\\AssignmentThreeandFour\\AssignmentThreeandFour.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

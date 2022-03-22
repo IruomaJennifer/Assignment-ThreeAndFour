@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\AssignmentThreeandFour\AssignmentThreeandFour\bin\Debug\net5.0\AssignmentThreeandFour.exe
+C:\Users\Asus\source\repos\AssignmentThreeandFour\AssignmentThreeandFour\bin\Debug\net5.0\AssignmentThreeandFour.deps.json
+C:\Users\Asus\source\repos\AssignmentThreeandFour\AssignmentThreeandFour\bin\Debug\net5.0\AssignmentThreeandFour.runtimeconfig.json
+C:\Users\Asus\source\repos\AssignmentThreeandFour\AssignmentThreeandFour\bin\Debug\net5.0\AssignmentThreeandFour.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\AssignmentThreeandFour\AssignmentThreeandFour\bin\Debug\net5.0\AssignmentThreeandFour.dll
+C:\Users\Asus\source\repos\AssignmentThreeandFour\AssignmentThreeandFour\bin\Debug\net5.0\AssignmentThreeandFour.pdb
+C:\Users\Asus\source\repos\AssignmentThreeandFour\AssignmentThreeandFour\obj\Debug\net5.0\AssignmentThreeandFour.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\AssignmentThreeandFour\AssignmentThreeandFour\obj\Debug\net5.0\AssignmentThreeandFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\AssignmentThreeandFour\AssignmentThreeandFour\obj\Debug\net5.0\AssignmentThreeandFour.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\AssignmentThreeandFour\AssignmentThreeandFour\obj\Debug\net5.0\AssignmentThreeandFour.AssemblyInfo.cs
+C:\Users\Asus\source\repos\AssignmentThreeandFour\AssignmentThreeandFour\obj\Debug\net5.0\AssignmentThreeandFour.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AssignmentThreeandFour\AssignmentThreeandFour\obj\Debug\net5.0\AssignmentThreeandFour.dll
+C:\Users\Asus\source\repos\AssignmentThreeandFour\AssignmentThreeandFour\obj\Debug\net5.0\refint\AssignmentThreeandFour.dll
+C:\Users\Asus\source\repos\AssignmentThreeandFour\AssignmentThreeandFour\obj\Debug\net5.0\AssignmentThreeandFour.pdb
+C:\Users\Asus\source\repos\AssignmentThreeandFour\AssignmentThreeandFour\obj\Debug\net5.0\AssignmentThreeandFour.genruntimeconfig.cache
+C:\Users\Asus\source\repos\AssignmentThreeandFour\AssignmentThreeandFour\obj\Debug\net5.0\ref\AssignmentThreeandFour.dll
